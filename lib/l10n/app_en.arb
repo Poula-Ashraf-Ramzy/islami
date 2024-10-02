@@ -1,0 +1,18 @@
+{
+  "app_title": "Islami",
+  "quran": "Quran",
+  "hadeth": "Hadeth",
+  "sebha": "Sebha",
+  "radio": "Radio",
+  "settings": "Settings",
+  "suraname": "Sura Name",
+  "hadethname": "Hadeth Name",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "mode": "Mode",
+  "light": "Light",
+  "dark": "Dark",
+  "holyQuranRadio": "Holy Quran Radio",
+  "numberOfTasbihat": "Number of Tasbihat"
+}
